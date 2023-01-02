@@ -1,5 +1,5 @@
 .idea
 .env
 .DS_Store
-dag/__pycache__
+dags/__pycache__
 logs
